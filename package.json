@@ -69,7 +69,7 @@
     "eslint": "^2.10.2",
     "express": "^4.13.3",
     "in-publish": "^2.0.0",
-    "jshint": "^2.9.1-rc2",
+    "jshint": "2.9.6",
     "karma": "^0.13.9",
     "karma-browserify": "^4.4.2",
     "karma-chrome-launcher": "^2.2.0",
